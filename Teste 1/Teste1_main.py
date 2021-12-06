@@ -14,4 +14,4 @@ tiss_page_url = h.find_link(url, 'tiss', '2021') #Finds the link to the latest '
 
 pdf_url = h.find_link(tiss_page_url, 'tiss', '.pdf') #Finds the link to the 'Componente Organizacional' PDF file using 'tiss' and '.pdf' aas parameters
 
-h.download_pdf(pdf_url, 'C:\Codes\Estagio - Desafios/padrao-tiss_componente-organizacional_202111.pdf') #Downloads the PDF to the LatestPadraoTiss folder
+h.download_pdf(pdf_url, 'LatestPadraoTiss/padrao-tiss_componente-organizacional_202111.pdf') #Downloads the PDF to the LatestPadraoTiss folder
