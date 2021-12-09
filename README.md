@@ -31,3 +31,5 @@
 |  0 |        1 | Alteração                |
 |  1 |        2 | Inclusão                 |
 |  2 |        3 | Exclusão                 |
+
+https://colab.research.google.com/drive/1jp87mR7BkT7RuoxNjlG5sXAT8awm_yJl?usp=sharing
