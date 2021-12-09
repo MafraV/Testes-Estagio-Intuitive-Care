@@ -33,3 +33,10 @@
 |  2 |        3 | Exclusão                 |
 
 [Google Colab for the Teste 1 and 2 easily execution](https://colab.research.google.com/drive/1jp87mR7BkT7RuoxNjlG5sXAT8awm_yJl?usp=sharing)
+
+Neste [link](https://dados.gov.br/dataset/operadoras-de-planos-privados-de-saude)
+
+![Query 1 Results](https://user-images.githubusercontent.com/32077156/145493665-cfc408e6-4a71-4295-9dc2-054824b3820f.png)
+
+![Query 2 Results](https://user-images.githubusercontent.com/32077156/145493673-0cbed7dc-22aa-4ac2-aa4f-56deeea0c262.png)
+
