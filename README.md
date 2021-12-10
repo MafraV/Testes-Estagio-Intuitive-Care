@@ -1,8 +1,8 @@
 # Testes de Nivelamento - Estágio Desenvolvimento de Software - Intuitive Care
 
-## Teste 1:
+## Teste 1
 
-
+## Teste 2
 |    |   Código | Descrição da categoria   |
 |---:|---------:|:-------------------------|
 |  0 |        1 | Operadora                |
@@ -35,6 +35,7 @@
 
 [Google Colab for the Teste 1 and 2 easily execution](https://colab.research.google.com/drive/1jp87mR7BkT7RuoxNjlG5sXAT8awm_yJl?usp=sharing)
 
+## Teste 3
 Neste [link](https://dados.gov.br/dataset/operadoras-de-planos-privados-de-saude)
 
 ![Query 1 Results](https://user-images.githubusercontent.com/32077156/145493665-cfc408e6-4a71-4295-9dc2-054824b3820f.png)
