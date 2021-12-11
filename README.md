@@ -1,7 +1,7 @@
 # Testes de Nivelamento - Estágio Desenvolvimento de Software - Intuitive Care
 *   Este repositório foi criado para a execução de testes de nivelamento do processo seletivo "Estágio Desenvolvimento de Software", da empresa Intuitive Care.
-*   Autor: Victor Mafra de Holanda Ferraz \\
-*   email: vmhf@ic.ufal.br \\
+*   Autor: Victor Mafra de Holanda Ferraz 
+*   email: vmhf@ic.ufal.br 
 *   links: [LinkedIn](https://www.linkedin.com/in/victor-mafra-de-holanda-ferraz-b7a813200/) [github](https://github.com/MafraV) 
 
 
