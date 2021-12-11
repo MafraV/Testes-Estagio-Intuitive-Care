@@ -31,7 +31,7 @@
 <center>
     
 |    |   Código | Descrição da categoria   |
-|---:|---------:|:-------------------------|
+|:--:|:--------:|:------------------------:|
 |  0 |        1 | Operadora                |
 |  1 |        2 | Prestador                |
 |  2 |        3 | Consumidor               |
