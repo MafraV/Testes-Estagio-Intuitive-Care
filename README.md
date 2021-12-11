@@ -44,7 +44,7 @@
 * Tabela estruturada do quadro 31 - Tabela de Categoria do Padrão TISS
 
 |     |   Código | Descrição da categoria                                                                            |
-|----:|---------:|:--------------------------------------------------------------------------------------------------|
+|:---:|:--------:|:--------------------------------------------------------------------------------------------------|
 |   0 |        1 | Componente Organizacional                                                                         |
 |   1 |        2 | Componente de Conteúdo e Estrutura                                                                |
 |   2 |        3 | Componente de Representação de Conceitos em Saúde                                                 |
@@ -62,7 +62,7 @@
 * Tabela estruturada do quadro 32 - Tabela de Tipo do Solicitação
 
 |    |   Código | Descrição da categoria   |
-|---:|---------:|:-------------------------|
+|:--:|:--------:|:------------------------:|
 |  0 |        1 | Alteração                |
 |  1 |        2 | Inclusão                 |
 |  2 |        3 | Exclusão                 |
