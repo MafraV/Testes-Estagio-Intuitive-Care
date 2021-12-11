@@ -34,4 +34,4 @@ csv_paths=['CSVs/Tabela_de_tipo_do_Demandante.csv','CSVs/Tabela_de_categoria_do_
 for (df,path) in zip(dfs,csv_paths):
     h.save_csv(df,path) #Call the function that saves the DataFrame as a CSV file at the desired path
 
-h.zip_csvs('ZIP/Teste_{Victor Mafra de Holanda Ferraz}.zip', csv_paths) #Calls the function that zip the CSVs files to a desired path
+h.zip_csvs('ZIP/Teste_{Victor_Mafra_de_Holanda_Ferraz}.zip', csv_paths) #Calls the function that zip the CSVs files to a desired path
