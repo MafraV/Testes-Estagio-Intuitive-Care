@@ -9,7 +9,7 @@
 *   Neste primeiro teste, o desafio é baixar o arquivo pdf mais atualizado (novembro de 2021) do componente organizacional do Padrão TISS no [site da ANS (Agência Nacional de Saúde)](https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss).
 *   Para realizar este desafio, utilizei a linguagem de programação Python e algumas de suas bibliotecas especializadas no processo de *web scraping*.
 *   Requerimentos:
-    1.   python >= 3.7.0
+    -   python >= 3.7.0
     2.   requests >= 2.25.1
     3.   bs4 (beautifulsoup4) >= 4.9.3
 
