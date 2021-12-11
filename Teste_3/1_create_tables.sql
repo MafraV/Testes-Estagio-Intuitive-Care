@@ -1,3 +1,4 @@
+/*Creates table for the trimesters CSVs*/
 CREATE TABLE public."Despesas"
 (
     "DATA" text COLLATE pg_catalog."default", 
@@ -7,6 +8,7 @@ CREATE TABLE public."Despesas"
     "VL_SALDO_FINAL" text COLLATE pg_catalog."default"
 );
 
+/*Creates table for the ANS registration CSV*/
 CREATE TABLE public."Registro"
 (
     "Registro_ANS" text NOT NULL,
