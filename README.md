@@ -76,7 +76,7 @@
 </div>
 
 
-## O Jupyter Notebook para a execução facilitada dos código dos testes 1 e 2 está presente no repositório e pode ser acessado no Google Colab através deste [link](https://colab.research.google.com/drive/1jp87mR7BkT7RuoxNjlG5sXAT8awm_yJl?usp=sharing).
+* **O Jupyter Notebook para a execução facilitada dos código dos testes 1 e 2 está presente no repositório e pode ser acessado no Google Colab através deste [link](https://colab.research.google.com/drive/1jp87mR7BkT7RuoxNjlG5sXAT8awm_yJl?usp=sharing)**.
 
 ## Teste 3 - Banco de Dados
 
