@@ -16,7 +16,7 @@
 
 ## Teste 2 - Transformação de dados
 *   Neste segundo teste, o desafio é:
-    -   Extrair do [pdf](https://www.gov.br/ans/pt-br/arquivos/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-tiss/padrao-tiss/padrao-tiss_componente-organizacional_202111.pdf) do teste anterior os dados dos quadro 30, 31 e 32;
+    -   Extrair do [pdf](https://www.gov.br/ans/pt-br/arquivos/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-tiss/padrao-tiss/padrao-tiss_componente-organizacional_202111.pdf) do teste anterior os dados dos quadros 30, 31 e 32;
     -   Salvar os dados em tabelas estruturadas, em arquivos .csv;
     -   Por último, zipar todos os arquivos em um arquivo .zip.
 *   Para a realização deste desafio, utilizei novamente a linguam de programação Python e algumas de suas bibliotecas especializadas em lidar com tabelas e arquivos .zip.
