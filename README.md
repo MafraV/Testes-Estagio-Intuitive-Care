@@ -43,6 +43,8 @@
 
 * Tabela estruturada do quadro 31 - Tabela de Categoria do Padrão TISS
 
+<div align="center">
+
 |     |   Código | Descrição da categoria                                                                            |
 |:---:|:--------:|:--------------------------------------------------------------------------------------------------|
 |   0 |        1 | Componente Organizacional                                                                         |
@@ -58,14 +60,20 @@
 | 135 |      166 | Guia de solicitação de internação                                                                 |
 | 136 |      167 | Guia de solicitação de prorrogação de internação ou complementação do tratamento                  |
 | 137 |      168 | Guia de tratamento odontológico                                                                   |
+    
+</div>
 
 * Tabela estruturada do quadro 32 - Tabela de Tipo do Solicitação
+
+<div align="center">
 
 |    |   Código | Descrição da categoria   |
 |:--:|:--------:|:------------------------:|
 |  0 |        1 | Alteração                |
 |  1 |        2 | Inclusão                 |
 |  2 |        3 | Exclusão                 |
+    
+</div>
 
 
 ## O Jupyter Notebook para a execução facilitada dos código dos testes 1 e 2 está presente no repositório e pode ser acessado no Google Colab através deste [link](https://colab.research.google.com/drive/1jp87mR7BkT7RuoxNjlG5sXAT8awm_yJl?usp=sharing).
@@ -83,9 +91,16 @@
 
 * Resultado obtido com a primeira query analítica:
 
+<div align="center">
+
 ![Query 1 Results](https://user-images.githubusercontent.com/32077156/145493665-cfc408e6-4a71-4295-9dc2-054824b3820f.png)
+    
+</div>
 
 * Resultado obtido com a segunda query analítica:
 
+<div align="center">
+
 ![Query 2 Results](https://user-images.githubusercontent.com/32077156/145493673-0cbed7dc-22aa-4ac2-aa4f-56deeea0c262.png)
 
+</div>
