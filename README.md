@@ -28,7 +28,7 @@
 
 * Tabela estruturada do quadro 30 - Tabela de Tipo do Demandante
 
-<center>
+<div align="center">
     
 |    |   Código | Descrição da categoria   |
 |:--:|:--------:|:------------------------:|
@@ -38,7 +38,7 @@
 |  3 |        4 | Gestor                   |
 |  4 |        5 | ANS                      |
     
-</center>
+</div>
 
 
 * Tabela estruturada do quadro 31 - Tabela de Categoria do Padrão TISS
