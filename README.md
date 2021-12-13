@@ -28,6 +28,7 @@ https://user-images.githubusercontent.com/32077156/145898063-c94ed6c6-76d9-40a2-
     -   pandas >= 1.1.5
     -   tabula-py >= 2.3.0
 
+### Resultados
 
 * Tabela estruturada do quadro 30 - Tabela de Tipo do Demandante
 
@@ -91,6 +92,8 @@ https://user-images.githubusercontent.com/32077156/145898063-c94ed6c6-76d9-40a2-
     - Montar uma query analítica que traga a resposta para a pergunta: Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS  DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" no último ano (2020)?
 
 *  Para a realização deste desafio, utilizei o banco de dados PostgreSQL 14.1.
+
+### Resultados
 
 * Resultado obtido com a primeira query analítica:
 
