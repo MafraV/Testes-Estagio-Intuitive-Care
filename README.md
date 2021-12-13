@@ -15,7 +15,7 @@
 
 ### Demonstração de Funcionamento
 
-<video src='https://www.youtube.com/watch?v=jxNEG-HOo6U' width=180/>
+
 
 ## Teste 2 - Transformação de Dados
 *   Neste segundo teste, o desafio é:
