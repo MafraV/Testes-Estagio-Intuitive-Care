@@ -13,9 +13,6 @@
     -   requests >= 2.25.1
     -   bs4 (beautifulsoup4) >= 4.9.3
 
-### Demonstração de Funcionamento
-
-
 
 ## Teste 2 - Transformação de Dados
 *   Neste segundo teste, o desafio é:
@@ -79,7 +76,6 @@
     
 </div>
 
-### Demonstração de Funcionamento
 
 ### O Jupyter Notebook para a execução facilitada dos códigos dos testes 1 e 2 pode ser acessado no Google Colab através deste [link](https://colab.research.google.com/drive/1jp87mR7BkT7RuoxNjlG5sXAT8awm_yJl?usp=sharing).
 
@@ -112,4 +108,3 @@
 
 </div>
 
-### Demonstração de Funcionamento
