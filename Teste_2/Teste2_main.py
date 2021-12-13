@@ -28,7 +28,7 @@ df_31 = h.build_table_from_tables(tables[1:-1]) #Calls the function that build t
 df_32 = h.build_table_from_dict(d_32,'Tabela de Tipo de Solicitação') #Calls the function that build the table of 'Quadro 32'
 
 dfs=[df_30,df_31,df_32] #Creates a list with all the returned DataFrames
-csv_paths=['CSVs/Tabela_de_tipo_do_Demandante.csv','CSVs/Tabela_de_categoria_do_Padrão_TISS.csv','CSVs/Tabela_de_tipo_de_Solicitação.csv'] #Creates a list with all the csv desired paths
+csv_paths=['CSVs/Quadro_30_Tabela_de_tipo_do_Demandante.csv','CSVs/Quadro_31_Tabela_de_categoria_do_Padrão_TISS.csv','CSVs/Quadro_32_Tabela_de_tipo_de_Solicitação.csv'] #Creates a list with all the csv desired paths
 
 #Save each DataFrame to its related path
 for (df,path) in zip(dfs,csv_paths):
